@@ -1,0 +1,23 @@
+{
+  "name": "frankendesein",
+  "version": "1.0.0",
+  "description": "A frontend playhouse for design concept experimentation and demonstration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamcaron/frankendesein.git"
+  },
+  "author": "Adam Caron <github.com/adamcaron>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamcaron/frankendesein/issues"
+  },
+  "homepage": "https://github.com/adamcaron/frankendesein#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
